@@ -5,7 +5,7 @@ A very simple http status checker.
 
 http_status_checker can be invoked from the commandline with the following:
 ```
-$ go main.go
+$ go run main.go
 ```
 
 ## 🔢 Outputs
